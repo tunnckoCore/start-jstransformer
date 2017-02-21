@@ -29,7 +29,7 @@
   "devDependencies": {
     "commitizen": "^2.9.2",
     "coveralls": "^2.11.15",
-    "cz-conventional-changelog": "^1.2.0",
+    "cz-conventional-changelog": "^2.0.0",
     "jstransformer-j140": "^1.0.0",
     "mukla": "^0.4.8",
     "nyc": "^10.0.0",
